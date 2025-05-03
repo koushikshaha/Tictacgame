@@ -1,6 +1,6 @@
 # TicTakGame 🎮
 
-A simple Tic Tac Toe game built using [your programming language/environment, e.g., C# and WinForms].
+A simple Tic Tac Toe game built using [ C# and WinForms].
 
 ---
 
