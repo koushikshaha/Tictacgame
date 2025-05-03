@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\tictakgame\tictakgame\bin\Debug\tictakgame.exe.config
+C:\Users\USER\source\repos\tictakgame\tictakgame\bin\Debug\tictakgame.exe
+C:\Users\USER\source\repos\tictakgame\tictakgame\bin\Debug\tictakgame.pdb
+C:\Users\USER\source\repos\tictakgame\tictakgame\obj\Debug\tictakgame.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\tictakgame\tictakgame\obj\Debug\tictakgame.Form1.resources
+C:\Users\USER\source\repos\tictakgame\tictakgame\obj\Debug\tictakgame.Properties.Resources.resources
+C:\Users\USER\source\repos\tictakgame\tictakgame\obj\Debug\tictakgame.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\tictakgame\tictakgame\obj\Debug\tictakgame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\tictakgame\tictakgame\obj\Debug\tictakgame.exe
+C:\Users\USER\source\repos\tictakgame\tictakgame\obj\Debug\tictakgame.pdb
